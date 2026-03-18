@@ -12,13 +12,6 @@ I'm 20 years old, from São Paulo, Brazil. A curious mind driven by continuous l
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/HenriqueSanchesSilva?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total stars" 
-            title="Total GitHub stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/HenriqueSanchesSilva?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
     <a href="https://github.com/HenriqueSanchesSilva?tab=followers">
         <img 
             alt="Followers" 
